@@ -1,6 +1,6 @@
-export const BASE_URL = "http://localhost:3000";
+export const BASE_URL = "mesto-66.nick.nomoredomainsrocks.ru";
 
-// "https://auth.nomoreparties.co"
+// "https://auth.nomoreparties.co"http://localhost:3000
 
 function checkResponse(res) {
   if (res.ok) {
