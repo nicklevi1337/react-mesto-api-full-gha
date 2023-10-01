@@ -1,0 +1,6 @@
+.header__element{
+  display: flex;
+  text-align: right;
+  gap: 24px;
+}
+

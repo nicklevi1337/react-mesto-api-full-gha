@@ -1,0 +1,11 @@
+.loading {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    background-image: url('../../images/amalie-steiness.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    align-self: start;
+    justify-self: start;
+}
