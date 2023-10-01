@@ -1,4 +1,4 @@
-export const BASE_URL = "http://api.mesto-66.nick.nomoredomainsrocks.ru";
+export const BASE_URL = "https://api.mesto-66.nick.nomoredomainsrocks.ru";
 
 // "https://auth.nomoreparties.co"http://localhost:3000
 
