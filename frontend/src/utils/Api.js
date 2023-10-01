@@ -111,7 +111,7 @@ class Api {
 }
 
 const api = new Api({
-    baseUrl: "mesto-66.nick.nomoredomainsrocks.ru",
+    baseUrl: "http://api.mesto-66.nick.nomoredomainsrocks.ru",
     // 'https://mesto.nomoreparties.co/v1/cohort-69',
 });
 
