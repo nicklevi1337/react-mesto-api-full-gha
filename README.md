@@ -5,7 +5,7 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/PrettyLolli137/react-mesto-api-full-gha
+Адрес репозитория: https://github.com/nicklevi1337/react-mesto-api-full-gha
 
 ## Ссылки на проект
 
